@@ -15,7 +15,7 @@ The last command checks the machine, runs four small functional paths, verifies
 their provenance, and writes a suite dashboard. It does not open a browser.
 
 ```bash
-git clone https://github.com/harvard-edge/cs249r_book
+git clone https://github.com/Prasanth595/cs249r_book
 cd cs249r_book/mlperf-edu
 uv sync --locked
 uv run mlperf init --profile min --output-dir submissions/first-run

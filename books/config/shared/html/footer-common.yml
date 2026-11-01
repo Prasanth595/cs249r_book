@@ -15,10 +15,10 @@ website:
       - text: |
           <span class="release-pill" data-release-pill></span>
       - icon: github
-        href: https://github.com/harvard-edge/cs249r_book
+        href: https://github.com/Prasanth595/cs249r_book
         aria-label: "View source on GitHub"
       - icon: star
-        href: https://github.com/harvard-edge/cs249r_book
+        href: https://github.com/Prasanth595/cs249r_book
         aria-label: "Star this repository"
     background: light
     border: true

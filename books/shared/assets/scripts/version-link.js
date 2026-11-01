@@ -1,5 +1,5 @@
 // Make version number (in DOI field) link to releases page
-const RELEASES_URL = 'https://github.com/harvard-edge/cs249r_book/releases';
+const RELEASES_URL = 'https://github.com/Prasanth595/cs249r_book/releases';
 
 document.addEventListener('DOMContentLoaded', function() {
   // Find the DOI field in the title metadata

@@ -13,7 +13,7 @@ it, see [`vault/REVIEWS.md`](vault/REVIEWS.md).
 
 ```bash
 # 1. Clone and pick the staffml worktree
-git clone https://github.com/harvard-edge/cs249r_book.git
+git clone https://github.com/Prasanth595/cs249r_book.git
 cd cs249r_book/interviews
 
 # 2. Install vault-cli (Python 3.12+)

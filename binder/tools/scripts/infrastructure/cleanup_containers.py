@@ -83,7 +83,7 @@ def main():
         print("")
         print("Keep only: quarto-linux")
         print("")
-        print("🔗 Go to: https://github.com/harvard-edge/cs249r_book/packages")
+        print("🔗 Go to: https://github.com/Prasanth595/cs249r_book/packages")
         return
 
     # Filter containers to delete
